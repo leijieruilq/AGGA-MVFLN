@@ -1,0 +1,324 @@
+ettm2:
+  name: ettm2
+  channels: 7
+  n_nodes: 1
+  lens: 69680
+  time_window: 15mins
+  channel_info: ['HUFL','HULL','MUFL','MULL','LUFL','LULL','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'ETT-small/'
+  file_name: 'ETTm2.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+tjg-1-20:
+  name: tjg-1-20
+  channels: 472
+  n_nodes: 1
+  lens: 1440
+  time_window: 1mins
+  channel_info: [413302460-Latitude,413302460-longitude,312521000-Latitude,312521000-longitude,413333000-Latitude,413333000-longitude,412300490-Latitude,412300490-longitude,563005500-Latitude,563005500-longitude,371002000-Latitude,371002000-longitude,412733000-Latitude,412733000-longitude,412762270-Latitude,412762270-longitude,412018000-Latitude,412018000-longitude,413328060-Latitude,413328060-longitude,413327360-Latitude,413327360-longitude,636016678-Latitude,636016678-longitude,412589890-Latitude,412589890-longitude,356726000-Latitude,356726000-longitude,413552920-Latitude,413552920-longitude,413413020-Latitude,413413020-longitude,413455910-Latitude,413455910-longitude,636014990-Latitude,636014990-longitude,414057000-Latitude,414057000-longitude,413492960-Latitude,413492960-longitude,412356460-Latitude,412356460-longitude,357911000-Latitude,357911000-longitude,671890000-Latitude,671890000-longitude,412750730-Latitude,412750730-longitude,413364000-Latitude,413364000-longitude,412356360-Latitude,412356360-longitude,412362000-Latitude,412362000-longitude,412123000-Latitude,412123000-longitude,413770714-Latitude,413770714-longitude,413697150-Latitude,413697150-longitude,440616000-Latitude,440616000-longitude,309972000-Latitude,309972000-longitude,273351380-Latitude,273351380-longitude,412703350-Latitude,412703350-longitude,413354010-Latitude,413354010-longitude,413018050-Latitude,413018050-longitude,229648000-Latitude,229648000-longitude,413797000-Latitude,413797000-longitude,413379190-Latitude,413379190-longitude,413438510-Latitude,413438510-longitude,413407940-Latitude,413407940-longitude,636016792-Latitude,636016792-longitude,413438030-Latitude,413438030-longitude,413755555-Latitude,413755555-longitude,538006959-Latitude,538006959-longitude,413378770-Latitude,413378770-longitude,352279000-Latitude,352279000-longitude,413301860-Latitude,413301860-longitude,566846000-Latitude,566846000-longitude,636017720-Latitude,636017720-longitude,413471960-Latitude,413471960-longitude,414310000-Latitude,414310000-longitude,354788000-Latitude,354788000-longitude,413303270-Latitude,413303270-longitude,636091310-Latitude,636091310-longitude,412379370-Latitude,412379370-longitude,305700000-Latitude,305700000-longitude,413443710-Latitude,413443710-longitude,413532000-Latitude,413532000-longitude,413438320-Latitude,413438320-longitude,412762120-Latitude,412762120-longitude,412630612-Latitude,412630612-longitude,477537100-Latitude,477537100-longitude,412372270-Latitude,412372270-longitude,412300190-Latitude,412300190-longitude,273132200-Latitude,273132200-longitude,413435970-Latitude,413435970-longitude,441883000-Latitude,441883000-longitude,413305720-Latitude,413305720-longitude,538003539-Latitude,538003539-longitude,413098000-Latitude,413098000-longitude,412204480-Latitude,412204480-longitude,308025000-Latitude,308025000-longitude,414170000-Latitude,414170000-longitude,412459870-Latitude,412459870-longitude,477698600-Latitude,477698600-longitude,352396000-Latitude,352396000-longitude,413919000-Latitude,413919000-longitude,212563000-Latitude,212563000-longitude,413358350-Latitude,413358350-longitude,414183000-Latitude,414183000-longitude,412755090-Latitude,412755090-longitude,414334000-Latitude,414334000-longitude,413272770-Latitude,413272770-longitude,412301380-Latitude,412301380-longitude,413271080-Latitude,413271080-longitude,413444850-Latitude,413444850-longitude,413510730-Latitude,413510730-longitude,312962000-Latitude,312962000-longitude,413694000-Latitude,413694000-longitude,413324150-Latitude,413324150-longitude,636015110-Latitude,636015110-longitude,566650000-Latitude,566650000-longitude,255805685-Latitude,255805685-longitude,413271370-Latitude,413271370-longitude,413927000-Latitude,413927000-longitude,412456808-Latitude,412456808-longitude,412704640-Latitude,412704640-longitude,312164000-Latitude,312164000-longitude,413553680-Latitude,413553680-longitude,538005104-Latitude,538005104-longitude,412328230-Latitude,412328230-longitude,477684400-Latitude,477684400-longitude,563016400-Latitude,563016400-longitude,413896000-Latitude,413896000-longitude,563042400-Latitude,563042400-longitude,671783000-Latitude,671783000-longitude,413943000-Latitude,413943000-longitude,413021170-Latitude,413021170-longitude,412472930-Latitude,412472930-longitude,412377290-Latitude,412377290-longitude,413435920-Latitude,413435920-longitude,413303720-Latitude,413303720-longitude,413552890-Latitude,413552890-longitude,412454980-Latitude,412454980-longitude,414400960-Latitude,414400960-longitude,413702160-Latitude,413702160-longitude,412437590-Latitude,412437590-longitude,413301910-Latitude,413301910-longitude,413481640-Latitude,413481640-longitude,414113000-Latitude,414113000-longitude,412415630-Latitude,412415630-longitude,255806038-Latitude,255806038-longitude,256924000-Latitude,256924000-longitude,229287000-Latitude,229287000-longitude,413324230-Latitude,413324230-longitude,209597000-Latitude,209597000-longitude,412703530-Latitude,412703530-longitude,413339000-Latitude,413339000-longitude,412436270-Latitude,412436270-longitude,413322920-Latitude,413322920-longitude,413303690-Latitude,413303690-longitude,563049000-Latitude,563049000-longitude,413701140-Latitude,413701140-longitude,412004000-Latitude,412004000-longitude,413271910-Latitude,413271910-longitude,412763440-Latitude,412763440-longitude,413419970-Latitude,413419970-longitude,413370790-Latitude,413370790-longitude,413458190-Latitude,413458190-longitude,414306000-Latitude,414306000-longitude,538005981-Latitude,538005981-longitude,477631200-Latitude,477631200-longitude,636012905-Latitude,636012905-longitude,533016000-Latitude,533016000-longitude,564246000-Latitude,564246000-longitude,413517000-Latitude,413517000-longitude,538002864-Latitude,538002864-longitude,538007419-Latitude,538007419-longitude,413444880-Latitude,413444880-longitude,413641000-Latitude,413641000-longitude,413300330-Latitude,413300330-longitude,413323680-Latitude,413323680-longitude,413839000-Latitude,413839000-longitude,413501160-Latitude,413501160-longitude,413526000-Latitude,413526000-longitude,413322910-Latitude,413322910-longitude,413445910-Latitude,413445910-longitude,414349000-Latitude,414349000-longitude,413438310-Latitude,413438310-longitude,636018374-Latitude,636018374-longitude,412434450-Latitude,412434450-longitude,413271870-Latitude,413271870-longitude,667001762-Latitude,667001762-longitude,412029000-Latitude,412029000-longitude,413459030-Latitude,413459030-longitude,412018370-Latitude,412018370-longitude,412371680-Latitude,412371680-longitude,256916000-Latitude,256916000-longitude,412508000-Latitude,412508000-longitude,414149000-Latitude,414149000-longitude,414781000-Latitude,414781000-longitude,412453740-Latitude,412453740-longitude,413362930-Latitude,413362930-longitude,412358510-Latitude,412358510-longitude,413301510-Latitude,413301510-longitude,413325550-Latitude,413325550-longitude,533051500-Latitude,533051500-longitude,413825000-Latitude,413825000-longitude,413556780-Latitude,413556780-longitude,413944000-Latitude,413944000-longitude,412302860-Latitude,412302860-longitude,249632000-Latitude,249632000-longitude,413500110-Latitude,413500110-longitude,412429040-Latitude,412429040-longitude,414716000-Latitude,414716000-longitude,671883000-Latitude,671883000-longitude,413452750-Latitude,413452750-longitude,416337000-Latitude,416337000-longitude,413506820-Latitude,413506820-longitude,229269000-Latitude,229269000-longitude,372979000-Latitude,372979000-longitude,412473460-Latitude,412473460-longitude,413443310-Latitude,413443310-longitude,413327320-Latitude,413327320-longitude,413440460-Latitude,413440460-longitude,413300650-Latitude,413300650-longitude,412362910-Latitude,412362910-longitude,413441256-Latitude,413441256-longitude,413442640-Latitude,413442640-longitude,413412990-Latitude,413412990-longitude,413201520-Latitude,413201520-longitude,538007476-Latitude,538007476-longitude,413046040-Latitude,413046040-longitude,249452000-Latitude,249452000-longitude,413201380-Latitude,413201380-longitude,413694210-Latitude,413694210-longitude,412044750-Latitude,412044750-longitude,413270480-Latitude,413270480-longitude,413396000-Latitude,413396000-longitude,477151400-Latitude,477151400-longitude,413300580-Latitude,413300580-longitude,413438720-Latitude,413438720-longitude,412355870-Latitude,412355870-longitude,412470080-Latitude,412470080-longitude,412705180-Latitude,412705180-longitude,413323860-Latitude,413323860-longitude,352823000-Latitude,352823000-longitude,374137000-Latitude,374137000-longitude,312415000-Latitude,312415000-longitude,413447270-Latitude,413447270-longitude,636017850-Latitude,636017850-longitude,413506380-Latitude,413506380-longitude,412948000-Latitude,412948000-longitude,563162000-Latitude,563162000-longitude,413570070-Latitude,413570070-longitude,413444590-Latitude,413444590-longitude,413459540-Latitude,413459540-longitude,373447000-Latitude,373447000-longitude,636017847-Latitude,636017847-longitude,414270000-Latitude,414270000-longitude,412271080-Latitude,412271080-longitude,256265000-Latitude,256265000-longitude,413305260-Latitude,413305260-longitude,413358210-Latitude,413358210-longitude,412477010-Latitude,412477010-longitude]
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'tjg/'
+  file_name: 'tjg-1-20.csv'
+  adj_path: None
+  period_type: 'hours'
+  c_date: 5
+
+ettm1:
+  name: ettm1
+  channels: 7
+  n_nodes: 1
+  lens: 69680
+  time_window: 15mins
+  channel_info: ['HUFL','HULL','MUFL','MULL','LUFL','LULL','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'ETT-small/'
+  file_name: 'ETTm1.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+dsmt:
+  name: dsmt
+  channels: 7
+  n_nodes: 1
+  lens: 86400
+  time_window: 0.016mins
+  channel_info: ['arnd','asin1','asin2','bfo2','bso1','cfo1','cso1']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'DSMTS/'
+  file_name: 'data.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+etth1:
+  name: etth1
+  channels: 7
+  n_nodes: 1
+  lens: 17420
+  time_window: 60mins
+  channel_info: ['HUFL','HULL','MUFL','MULL','LUFL','LULL','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'ETT-small/'
+  file_name: 'ETTh1.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+
+etth2:
+  name: etth2
+  channels: 7
+  n_nodes: 1
+  lens: 17420
+  time_window: 60mins
+  channel_info: ['HUFL','HULL','MUFL','MULL','LUFL','LULL','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'ETT-small/'
+  file_name: 'ETTh2.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+etth2:
+  name: etth2
+  channels: 7
+  n_nodes: 1
+  lens: 69680
+  time_window: 15mins
+  channel_info: ['HUFL','HULL','MUFL','MULL','LUFL','LULL','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'ETT-small/'
+  file_name: 'ETTh2.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+
+rate:
+  name: rate
+  channels: 8
+  n_nodes: 1
+  lens: 7588
+  time_window: 1440mins
+  channel_info: ['0','1','2','3','4','5','6','OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'exchange_rate/'
+  file_name: 'exchange_rate.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5  
+
+illness:
+  name: illness
+  channels: 7
+  n_nodes: 1
+  lens: 966
+  time_window: 10080mins
+  channel_info: ['% WEIGHTED ILI','%UNWEIGHTED ILI','AGE 0-4', 'AGE 5-24','ILITOTAL', 'NUM. OF PROVIDERS', 'OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'illness/'
+  file_name: 'national_illness.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5  
+
+weather:
+  name: weather
+  channels: 21
+  n_nodes: 1
+  lens: 52696
+  time_window: 10mins
+  channel_info: ['p (mbar)', 'T (degC)', 'Tpot (K)', 'Tdew (degC)', 'rh (%)', 'VPmax (mbar)', 'VPact (mbar)', 'VPdef (mbar)', 'sh (g/kg)', 'H2OC (mmol/mol)', 'rho (g/m**3)', 'wv (m/s)', 'max. wv (m/s)', 'wd (deg)', 'rain (mm)', 'raining (s)', 'SWDR (W/m�)', 'PAR (�mol/m�/s)', 'max. PAR (�mol/m�/s)', 'Tlog (degC)', 'OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'weather/'
+  file_name: 'weather.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5 
+
+traffic:
+  name: traffic
+  channels: 862
+  n_nodes: 1
+  lens: 17544
+  time_window: 60mins
+  channel_info: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '190', '191', '192', '193', '194', '195', '196', '197', '198', '199', '200', '201', '202', '203', '204', '205', '206', '207', '208', '209', '210', '211', '212', '213', '214', '215', '216', '217', '218', '219', '220', '221', '222', '223', '224', '225', '226', '227', '228', '229', '230', '231', '232', '233', '234', '235', '236', '237', '238', '239', '240', '241', '242', '243', '244', '245', '246', '247', '248', '249', '250', '251', '252', '253', '254', '255', '256', '257', '258', '259', '260', '261', '262', '263', '264', '265', '266', '267', '268', '269', '270', '271', '272', '273', '274', '275', '276', '277', '278', '279', '280', '281', '282', '283', '284', '285', '286', '287', '288', '289', '290', '291', '292', '293', '294', '295', '296', '297', '298', '299', '300', '301', '302', '303', '304', '305', '306', '307', '308', '309', '310', '311', '312', '313', '314', '315', '316', '317', '318', '319', '320', '321', '322', '323', '324', '325', '326', '327', '328', '329', '330', '331', '332', '333', '334', '335', '336', '337', '338', '339', '340', '341', '342', '343', '344', '345', '346', '347', '348', '349', '350', '351', '352', '353', '354', '355', '356', '357', '358', '359', '360', '361', '362', '363', '364', '365', '366', '367', '368', '369', '370', '371', '372', '373', '374', '375', '376', '377', '378', '379', '380', '381', '382', '383', '384', '385', '386', '387', '388', '389', '390', '391', '392', '393', '394', '395', '396', '397', '398', '399', '400', '401', '402', '403', '404', '405', '406', '407', '408', '409', '410', '411', '412', '413', '414', '415', '416', '417', '418', '419', '420', '421', '422', '423', '424', '425', '426', '427', '428', '429', '430', '431', '432', '433', '434', '435', '436', '437', '438', '439', '440', '441', '442', '443', '444', '445', '446', '447', '448', '449', '450', '451', '452', '453', '454', '455', '456', '457', '458', '459', '460', '461', '462', '463', '464', '465', '466', '467', '468', '469', '470', '471', '472', '473', '474', '475', '476', '477', '478', '479', '480', '481', '482', '483', '484', '485', '486', '487', '488', '489', '490', '491', '492', '493', '494', '495', '496', '497', '498', '499', '500', '501', '502', '503', '504', '505', '506', '507', '508', '509', '510', '511', '512', '513', '514', '515', '516', '517', '518', '519', '520', '521', '522', '523', '524', '525', '526', '527', '528', '529', '530', '531', '532', '533', '534', '535', '536', '537', '538', '539', '540', '541', '542', '543', '544', '545', '546', '547', '548', '549', '550', '551', '552', '553', '554', '555', '556', '557', '558', '559', '560', '561', '562', '563', '564', '565', '566', '567', '568', '569', '570', '571', '572', '573', '574', '575', '576', '577', '578', '579', '580', '581', '582', '583', '584', '585', '586', '587', '588', '589', '590', '591', '592', '593', '594', '595', '596', '597', '598', '599', '600', '601', '602', '603', '604', '605', '606', '607', '608', '609', '610', '611', '612', '613', '614', '615', '616', '617', '618', '619', '620', '621', '622', '623', '624', '625', '626', '627', '628', '629', '630', '631', '632', '633', '634', '635', '636', '637', '638', '639', '640', '641', '642', '643', '644', '645', '646', '647', '648', '649', '650', '651', '652', '653', '654', '655', '656', '657', '658', '659', '660', '661', '662', '663', '664', '665', '666', '667', '668', '669', '670', '671', '672', '673', '674', '675', '676', '677', '678', '679', '680', '681', '682', '683', '684', '685', '686', '687', '688', '689', '690', '691', '692', '693', '694', '695', '696', '697', '698', '699', '700', '701', '702', '703', '704', '705', '706', '707', '708', '709', '710', '711', '712', '713', '714', '715', '716', '717', '718', '719', '720', '721', '722', '723', '724', '725', '726', '727', '728', '729', '730', '731', '732', '733', '734', '735', '736', '737', '738', '739', '740', '741', '742', '743', '744', '745', '746', '747', '748', '749', '750', '751', '752', '753', '754', '755', '756', '757', '758', '759', '760', '761', '762', '763', '764', '765', '766', '767', '768', '769', '770', '771', '772', '773', '774', '775', '776', '777', '778', '779', '780', '781', '782', '783', '784', '785', '786', '787', '788', '789', '790', '791', '792', '793', '794', '795', '796', '797', '798', '799', '800', '801', '802', '803', '804', '805', '806', '807', '808', '809', '810', '811', '812', '813', '814', '815', '816', '817', '818', '819', '820', '821', '822', '823', '824', '825', '826', '827', '828', '829', '830', '831', '832', '833', '834', '835', '836', '837', '838', '839', '840', '841', '842', '843', '844', '845', '846', '847', '848', '849', '850', '851', '852', '853', '854', '855', '856', '857', '858', '859', '860', 'OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'traffic/'
+  file_name: 'traffic.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5  
+
+
+electricity:
+  name: electricity
+  channels: 321
+  n_nodes: 1
+  lens: 26304
+  time_window: 60mins
+  channel_info: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '190', '191', '192', '193', '194', '195', '196', '197', '198', '199', '200', '201', '202', '203', '204', '205', '206', '207', '208', '209', '210', '211', '212', '213', '214', '215', '216', '217', '218', '219', '220', '221', '222', '223', '224', '225', '226', '227', '228', '229', '230', '231', '232', '233', '234', '235', '236', '237', '238', '239', '240', '241', '242', '243', '244', '245', '246', '247', '248', '249', '250', '251', '252', '253', '254', '255', '256', '257', '258', '259', '260', '261', '262', '263', '264', '265', '266', '267', '268', '269', '270', '271', '272', '273', '274', '275', '276', '277', '278', '279', '280', '281', '282', '283', '284', '285', '286', '287', '288', '289', '290', '291', '292', '293', '294', '295', '296', '297', '298', '299', '300', '301', '302', '303', '304', '305', '306', '307', '308', '309', '310', '311', '312', '313', '314', '315', '316', '317', '318', '319', 'OT']
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'electricity/'
+  file_name: 'electricity.csv'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+solar:
+  name: solar
+  channels: 137
+  n_nodes: 1
+  lens: 35040
+  time_window: 15mins
+  channel_info: [PV001,PV002,PV003,PV004,PV005,PV006,PV007,PV008,PV009,PV010,PV011,PV012,PV013,PV014,PV015,PV016,PV017,PV018,PV019,PV020,PV021,PV022,PV023,PV024,PV025,PV026,PV027,PV028,PV029,PV030,PV031,PV032,PV033,PV034,PV035,PV036,PV037,PV038,PV039,PV040,PV041,PV042,PV043,PV044,PV045,PV046,PV047,PV048,PV049,PV050,PV051,PV052,PV053,PV054,PV055,PV056,PV057,PV058,PV059,PV060,PV061,PV062,PV063,PV064,PV065,PV066,PV067,PV068,PV069,PV070,PV071,PV072,PV073,PV074,PV075,PV076,PV077,PV078,PV079,PV080,PV081,PV082,PV083,PV084,PV085,PV086,PV087,PV088,PV089,PV090,PV091,PV092,PV093,PV094,PV095,PV096,PV097,PV098,PV099,PV100,PV101,PV102,PV103,PV104,PV105,PV106,PV107,PV108,PV109,PV110,PV111,PV112,PV113,PV114,PV115,PV116,PV117,PV118,PV119,PV120,PV121,PV122,PV123,PV124,PV125,PV126,PV127,PV128,PV129,PV130,PV131,PV132,PV133,PV134,PV135,PV136,PV137]
+  choise_channels: [-1]
+  nodes_info: ['None']
+  choise_nodes: [-1]
+  folder_path: 'SOLAR/'
+  file_name: 'solar_Alabama.csv'
+  adj_path: None
+  period_type: None
+  c_date: 5
+
+metr_la:
+  name: metr_la
+  channels: 1
+  n_nodes: 207
+  lens: 34272
+  time_window: 5mins
+  channel_info: ['speed']
+  choise_channels: [0]
+  folder_path: 'metr_la/'
+  file_name: 'metr_la.h5'
+  adj_path: 'metr_la_adj.pkl'
+  period_type: 'week'
+  c_date: 5
+
+pems_bay:
+  name: pems_bay
+  channels: 1
+  n_nodes: 325
+  lens: 52116
+  time_window: 5mins
+  channel_info: ['speed']
+  choise_channels: [0]
+  folder_path: 'pems_bay/'
+  file_name: 'pems_bay.h5'
+  adj_path: 'pems_bay_adj.pkl'
+  period_type: 'week'
+  c_date: 5
+  
+pems04:
+  name: pems04
+  channels: 3
+  n_nodes: 307
+  lens: 16992
+  start_time: '2018-01-01 00:00:00'
+  time_window: 5mins
+  channel_info: ['flow','occ','speed']
+  choise_channels: [0,1,2]
+  folder_path: 'pems04/'
+  file_name: 'pems04.npz'
+  adj_path: 'pems04_adj.csv'
+  period_type: 'week'
+  c_date: 5
+  
+pems08:
+  name: pems08
+  channels: 3
+  n_nodes: 170
+  lens: 17856
+  start_time: '2016-07-01 00:00:00'
+  time_window: 5mins
+  channel_info: ['flow','occ','speed']
+  choise_channels: [0,1,2]
+  folder_path: 'pems08/'
+  file_name: 'pems08.npz'
+  adj_path: 'pems08_adj.csv'
+  period_type: 'week'
+  c_date: 5
+  
+taxibj13:
+  name: taxibj13
+  channels: 2
+  n_nodes: 1024
+  lens: 4888
+  time_window: 30mins
+  channel_info: ['flow_in','flow_out']
+  choise_channels: [0,1]
+  folder_path: 'TaxiBJ/'
+  file_name: 'BJ13_M32x32_T30_InOut.h5'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+taxibj14:
+  name: taxibj14
+  channels: 2
+  n_nodes: 1024
+  lens: 4780
+  time_window: 30mins
+  channel_info: ['flow_in','flow_out']
+  choise_channels: [0,1]
+  folder_path: 'TaxiBJ/'
+  file_name: 'BJ14_M32x32_T30_InOut.h5'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+taxibj15:
+  name: taxibj15
+  channels: 2
+  n_nodes: 1024
+  lens: 5596
+  time_window: 30mins
+  channel_info: ['flow_in','flow_out']
+  choise_channels: [0,1]
+  folder_path: 'TaxiBJ/'
+  file_name: 'BJ15_M32x32_T30_InOut.h5'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5
+
+taxibj16:
+  name: taxibj16
+  channels: 2
+  n_nodes: 1024
+  lens: 7220
+  time_window: 30mins
+  channel_info: ['flow_in','flow_out']
+  choise_channels: [0,1]
+  folder_path: 'TaxiBJ/'
+  file_name: 'BJ16_M32x32_T30_InOut.h5'
+  adj_path: None
+  period_type: 'week'
+  c_date: 5

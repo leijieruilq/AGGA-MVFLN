@@ -1,0 +1,10 @@
+name: agga-fln
+order: 2
+dilation: 1
+kernel_size: 3
+emb_dim: 8
+dropout: 0.5
+sta_layers: 1
+
+share: False
+use_update: False
