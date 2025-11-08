@@ -25,13 +25,18 @@
 > > for example：nohup python -u exp.py --note "agga-fln-weather-96" --model_name "agga-fln" --dataset_name "weather" --inp_len 96 --pred_len 96 > train.log 2>&1 &
 
 > > The results are in the corresponding train.log file.
+## Citation
 
-### Please cite this if you like this code:
+If you find this repo helpful, please cite our paper. 
 
-> > @inproceedings{lei2025agga,
+```
+ @inproceedings{lei2025agga,
   title={AGGA-MVFLN: Multivariate Time Series Forecasting via Adaptive Generalized Graph Accompanied with Multi-View Learning in Frequency Domain},
   author={Lei, Jierui and Chen, Fangzheng and Tang, Haina},
   booktitle={Proceedings of the 2025 International Conference on Multimedia Retrieval},
   pages={653--661},
   year={2025}
 }
+```
+"""
+
