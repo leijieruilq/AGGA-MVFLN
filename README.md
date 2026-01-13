@@ -1,4 +1,4 @@
-# AGGA-MVFLN: Multivariate Time Series Forecasting via Adaptive Generalized Graph Accompanied with Multi-View Learning in Frequency Domain (ICMR2025)
+# (ICMR2025) AGGA-MVFLN: Multivariate Time Series Forecasting via Adaptive Generalized Graph Accompanied with Multi-View Learning in Frequency Domain
 
 ## Introduction
 
